@@ -1,0 +1,19 @@
+El primer paso fue crear la cuenta en github ya que no la tenia.
+Despues de llenar los formularios y validar mi cuenta con el correo electronico ingreso a mi cuenta.
+Doy click en repositories
+Click en new
+Asigno un nombre al repositorio(cada clase crearemos un repositorio nuevo)
+El repositorio tiene un branch por defecto que es el master, este sera el principal
+Para no afectar el projecto principal y poder trabajar en modificaciones creamos un nuevo branch
+Click donde dice branch:'nombre de un branch'
+Asignamos un nombre cualquiera y click en create branch
+Nos posicionamos en el branch que queremos trabajar
+Click en create new file
+asignamos nombre del archivo con su respectiva extencion
+agregamos su contenido
+agregamos una leve descripcion de la funcionalidad del archivo o cambios efectuados
+guardamos
+para que los cambios se suban al branch principal damos click en pull request
+enviamos la solicitud
+agregamos unos comentarios
+y aceptamos los cambios
